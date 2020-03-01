@@ -5,4 +5,4 @@ cd (directory name) <br>
 mkdir (name of new directory) <br>
 
 ## git
-git commit -m (The -m is for message <br>)
+git commit -m (The -m is for message) <br>
