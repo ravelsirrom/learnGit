@@ -11,4 +11,4 @@ status <br>
 add (file name) <br>
 commit -m "use good commit messages" <br>
 push <br>
-log <br>
+log (while in log press "q" to quit reading) <br>
