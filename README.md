@@ -1,5 +1,5 @@
 # learnGit
-A list of commands to learn/remmeber to use. Must remember to write down and never forget instead of trying to remmeber.
+A list of commands to learn/remmeber to use. Must remember to write down and never forget instead of trying to remmeber.<br>
 
 ## bash
 ls <br>
